@@ -1,5 +1,5 @@
 
-# 📊 Analysis of Wallet Scores
+#  Analysis of Wallet Scores
 
 ## Distribution
 
